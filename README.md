@@ -2,7 +2,6 @@
 
  <div>
   <a href="https://github.com/rafaelacsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelacsouza&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
  <div style="display: inline_block"><br>
